@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # kingcancan.github.io
+=======
+>>>>>>> b4a773ff894daceab4e6c106749db9673ec64995
 # MatJek
 
 A responsive [Material](https://material.io/) theme based on [Materialize.css](http://materializecss.com/) for jekyll sites.
@@ -66,4 +69,8 @@ The theme is available as open source under the terms of the [GPL v3 License](ht
 
 ## References
 * https://github.com/DONGChuan/Yummy-Jekyll/
+<<<<<<< HEAD
 * https://github.com/codinfox/codinfox-lanyon/
+=======
+* https://github.com/codinfox/codinfox-lanyon/
+>>>>>>> b4a773ff894daceab4e6c106749db9673ec64995

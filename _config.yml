@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 黄琦雲的博客
+title: 金灿的博客
 description: > # this means to ignore newlines until "baseurl:"
   基于 jekyll 的 Github Pages 个人博客网站，技术的学习、总结、分享与提升
 baseurl: ""
-url: "https://kingcan.github.io"
+url: "https://kingcancan.github.io"
 permalink: /:year/:month/:day/:title
-repository: kingcan/kingcancan.github.io
+repository: kingcancan/kingcan.github.io
 paginate: 5
 
 # MatJek specific configurations
@@ -29,7 +29,7 @@ user_email: "1334703911@qq.com"
 # contact_url: "https://goo.gl/tVljbV"
 # google_tracking_id: "UA-96359860-1"
 # google_site_verification: "UA-96359860-1"
-# disqus_shortname: ""
+# disqus_shortname: "金灿"
 
 # Build settings
 markdown: kramdown
